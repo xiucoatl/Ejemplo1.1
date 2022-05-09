@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learsi/UNAM/Modulo6/Articulos-main/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Learsi/UNAM/Modulo6/Articulos-main/app/src/main/res/layout/item_articulo.xml" value="0.3625" />
+        <entry key="..\:/Users/Milto/AndroidStudioProjects/Ejemplo11/app/src/main/res/layout/activity_main.xml" value="0.3442028985507246" />
+        <entry key="..\:/Users/Milto/AndroidStudioProjects/Ejemplo11/app/src/main/res/layout/item_articulo.xml" value="0.3875" />
+        <entry key="..\:/Users/ar.guzman.COMPLEJOPUEBLA/Documents/Diplomado/Modulo 6/MostrandoArticulos-master/app/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/ar.guzman.COMPLEJOPUEBLA/Documents/Diplomado/Modulo 6/MostrandoArticulos-master/app/src/main/res/layout/item_articulo.xml" value="0.42916666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
